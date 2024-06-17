@@ -1,5 +1,5 @@
-[![FlaminChameleon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=flaming-chameleon&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000\&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/flaming-chameleon/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaming-chameleon\&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&&icon_color=ed9004&theme=dark#gh-dark-mode-only)
+[![FlaminChameleon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=flaming-chameleon&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000\&rank_icon=github&theme=dark)](https://github.com/flaming-chameleon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaming-chameleon\&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&&icon_color=ed9004&theme=dark)
 <!--![flaming-chameleon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flaming-chameleon&theme=vue-dark&hide_border=true)-->
 
 
